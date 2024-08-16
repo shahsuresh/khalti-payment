@@ -58,7 +58,7 @@ app.post("/initialize-khalti", async (req, res) => {
       customer_info: {
         name: "Suresh Shah",
         email: "suresh@khalti.com",
-        phone: "9800000000",
+        phone: "9800000005",
       },
     });
     // console.log(paymentInitate);
